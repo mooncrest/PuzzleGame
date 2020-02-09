@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uoft.csc207.gameapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Activities.MainMenuActivities.PersonalScoresOptionsActivity"></activity>
+        <activity android:name=".Activities.MainMenuActivities.LeaderboardOptionsActivity" />
+        <activity android:name=".Activities.GameActivities.GameOptionsActivity" />
+        <activity android:name=".Activities.MainMenuActivities.PersonalScoresActivity" />
+        <activity android:name=".Activities.MainMenuActivities.LeaderboardActivity" />
+        <activity android:name=".Activities.MainMenuActivities.MainMenuActivity" />
+        <activity android:name=".Activities.GameActivities.GameActivity" />
+        <activity android:name=".Activities.MainMenuActivities.CustomizeActivity" />
+        <activity
+            android:name=".Activities.VerificationActivities.RegisterUserActivity"
+            android:label="@string/title_activity_register_user"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activities.VerificationActivities.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+{
+  "tetris":{
+    "colours": "Default"
+  },
+  "rhythm": {
+      "shape1": "J",
+      "shape2": "O",
+      "shape3": "O",
+      "shape4": "L"
+  },
+  "maze": {
+    "controls": "Tap"
+  }
+}

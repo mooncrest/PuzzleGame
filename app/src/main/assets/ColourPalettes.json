@@ -1,0 +1,113 @@
+{
+  "Default":{
+    "BlockColour1": {
+      "r": 130,
+      "g": 215,
+      "b": 255
+    },
+    "BlockColour2": {
+      "r": 100,
+      "g": 170,
+      "b": 255
+    },
+    "BlockColour3": {
+      "r": 255,
+      "g": 170,
+      "b": 70
+    },
+    "BlockColour4": {
+      "r": 255,
+      "g": 220,
+      "b": 100
+    },
+    "BlockColour5": {
+      "r": 155,
+      "g": 255,
+      "b": 110
+    },
+    "BlockColour6": {
+      "r": 255,
+      "g": 100,
+      "b": 100
+    },
+    "BlockColour7": {
+      "r": 170,
+      "g": 140,
+      "b": 255
+    }
+  },
+  "Aqua": {
+    "BlockColour1": {
+      "r": 195,
+      "g": 235,
+      "b": 255
+    },
+    "BlockColour2": {
+      "r": 145,
+      "g": 220,
+      "b": 255
+    },
+    "BlockColour3": {
+      "r": 90,
+      "g": 185,
+      "b": 235
+    },
+    "BlockColour4": {
+      "r": 40,
+      "g": 155,
+      "b": 210
+    },
+    "BlockColour5": {
+      "r": 85,
+      "g": 135,
+      "b": 170
+    },
+    "BlockColour6": {
+      "r": 20,
+      "g": 80,
+      "b": 130
+    },
+    "BlockColour7": {
+      "r": 0,
+      "g": 55,
+      "b": 110
+    }
+  },
+  "Ember": {
+    "BlockColour1": {
+      "r": 255,
+      "g": 220,
+      "b": 0
+    },
+    "BlockColour2": {
+      "r": 255,
+      "g": 205,
+      "b": 115
+    },
+    "BlockColour3": {
+      "r": 255,
+      "g": 170,
+      "b": 5
+    },
+    "BlockColour4": {
+      "r": 240,
+      "g": 120,
+      "b": 5
+    },
+    "BlockColour5": {
+      "r": 215,
+      "g": 60,
+      "b": 45
+    },
+    "BlockColour6": {
+      "r": 160,
+      "g": 40,
+      "b": 40
+    },
+    "BlockColour7": {
+      "r": 115,
+      "g": 20,
+      "b": 20
+    }
+  }
+}

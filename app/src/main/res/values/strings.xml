@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GameApplication</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register_user">RegisterUser</string>
+    <string name="game_score">0</string>
+    <string name="play">Play</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="scores">Personal Scores</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="play_game_wrapper">Play Game Wrapper</string>
+    <string name="tetris_game">Play Tetris Game</string>
+    <string name="rhythm_game">Play Rhythm Game</string>
+    <string name="maze_game">Play Maze Game</string>
+    <string name="game_wrapper_leaderboard">Game Wrapper Leaderboard</string>
+    <string name="tetris_game_leaderboard">Tetris Game Leaderboard</string>
+    <string name="rhythm_game_leaderboard">Rhythm Game Leaderboard</string>
+    <string name="maze_game_leaderboard">Maze Game Leaderboard</string>
+    <string name="leaderboard_options">Leaderboard Options</string>
+    <string name="game_wrapper_scores">Game Wrapper Scores</string>
+    <string name="tetris_game_scores">Tetris Game Scores</string>
+    <string name="rhythm_game_scores">Rhythm Game Scores</string>
+    <string name="maze_game_scores">Maze Game Scores</string>
+    <string name="scores_options">Personal Scores Options</string>
+
+    <string-array name="tetrisColours">
+        <item>Default</item>
+        <item>Aqua</item>
+        <item>Ember</item>
+    </string-array>
+    <string-array name="shapes">
+        <item>J</item>
+        <item>L</item>
+        <item>O</item>
+        <item>S</item>
+        <item>Z</item>
+        <item>T</item>
+    </string-array>
+    <string-array name="mazeControls">
+        <item>Tap</item>
+        <item>Swipe</item>
+    </string-array>
+</resources>
