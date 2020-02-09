@@ -1,7 +1,6 @@
 Project name
 
-Game Box - Just Another CSC207 Project
-
+Game Box
 
 Description
 
